@@ -28,5 +28,5 @@
 
 
 
-![Snake animation](https://github.com/Jaum1981/.github-workflows/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/Jaum1981/Jaum1981/blob/main/.github/workflows/cobra.yml)
 
