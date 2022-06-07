@@ -1,49 +1,29 @@
-<h1 align="center">
-<img src="https://media.giphy.com/media/3osxYoufeOGOA7xiX6/giphy.gif" width="30">
-Aqui é o Jaum <img src="https://media.giphy.com/media/3osxYoufeOGOA7xiX6/giphy.gif" width="30">
-</h1>
+## Oi eu sou o Jão, sou universitário da UFC!
+<div align="center">
+  <a href="https://github.com/Jaum1981">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaum1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaum1981&layout=compact&langs_count=7&theme=dracula"/>
 
-
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jaum1981&show_icons=true&theme=radical">
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaum1981">
   
-  
-## <br /> 🙋‍♂️ Connect with me 
-
-
-
-<!-- Badges template - https://github.com/Ileriayo/markdown-badges#social-->
-
-<br />
-
-
-
-
-<a  href="https://www.linkedin.com/in/jo%C3%A3o-victor-amarante-diniz-9a2191230/"><img align="left" alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br />
-<a  href="https://www.instagram.com/Jaaum1_/"><img align="left" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<br />
-
+ ##  <br /> 🙋‍♂️ Connect with me 
+ 
+<div> 
+  <a href="https://instagram.com/Jaaum1_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/Jaum1981" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:juaun1981@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-victor-amarante-diniz-9a2191230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 
 
 ## <br /> Linguagens
 
-
-
-<!-- Badges template - https://github.com/Ileriayo/markdown-badges#social-->
-
-<br />
-
-
-
-
-<a  href="https://github.com/Jaum1981/C-test"><img align="left" alt="C++" title="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-<br />
-<a  href="https://github.com/Jaum1981/Java-test"><img align="left" alt="Java" title="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
-<br />
-
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="70" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="Rafa-Ts" height="40" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif">
+</div>
 
 
 
