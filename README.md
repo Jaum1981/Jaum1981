@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h1 align="center">
+<img src="https://giphy.com/embed/3osxYoufeOGOA7xiX6](https://media.giphy.com/media/3osxYoufeOGOA7xiX6/giphy.gif" width="28">
+Aqui é o Jaum 👋 <img src="https://media.giphy.com/media/12outCBM0My216o/giphy.gif">
+</h3>
+  
+  
 <!--
 **Jaum1981/Jaum1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
