@@ -29,4 +29,3 @@
 
 
 ![Snake animation](https://github.com/Jaum1981/Jaum1981/blob/main/.github/workflows/cobra.yml)
-
