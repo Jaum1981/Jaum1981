@@ -24,8 +24,3 @@
   <img align="center" alt="Rafa-Ts" height="40" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif">
 </div>
-
-
-
-
-![Snake animation](https://github.com/Jaum1981/Jaum1981/blob/main/.github/workflows/main.yml)
