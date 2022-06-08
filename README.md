@@ -1,4 +1,7 @@
-## Oi eu sou o Jão, sou universitário da UFC!
+<h1 align="center">
+<img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="50">  
+ Oi eu sou o Jão, sou universitário da UFC!  <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="50">
+</h1>
 <div align="center">
   <a href="https://github.com/Jaum1981">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaum1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,10 +29,6 @@
     
 </div>
     
-</div>    
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif">
-</div>
-  
   
   
   ![snake gif](https://github.com/Jaum1981/Jaum1981/blob/output/github-contribution-grid-snake.svg)
