@@ -29,3 +29,7 @@
 </div>    
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif">
 </div>
+  
+  
+  
+  ![snake gif](https://github.com/Jaum1981/Jaum1981/blob/output/github-contribution-grid-snake.svg)
