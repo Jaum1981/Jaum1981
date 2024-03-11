@@ -1,6 +1,5 @@
-<h1 align="center">
-<img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="50">  
- Oi eu sou o Jão, sou universitário da UFC!  <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="50">
+<h1 align="center">  
+ Oi eu sou o Jão, sou universitário da UFC!
 </h1>
 
 <div align="center">
