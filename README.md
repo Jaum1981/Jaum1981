@@ -50,7 +50,7 @@
 <div align="center">
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jaum1981/jaum1981/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jaum1981/Jaum1981/output/snake.svg" alt="Snake animation" />
 </div>
 <div>
 <hr>
