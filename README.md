@@ -43,17 +43,6 @@
 </p>
 
 </div><br>
-<hr>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Snake;)](https://git.io/typing-svg)
-
-<div align="center">
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jaum1981/Jaum1981/output/snake.svg" alt="Snake animation" />
-</div>
-<div>
-<hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Contribution+Graph;)](https://git.io/typing-svg)
 
