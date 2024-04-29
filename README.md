@@ -38,6 +38,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/java_original_logo_icon_146458.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="35" height="35"/>
+<img src="https://cdn.icon-icons.com/icons2/4037/PNG/512/postgre_brands_icon_256592.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_git_icon_130581.png" width="35" height="35"/>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/96/github-logo_icon-icons.com_73546.png" width="35" height="35"/>
 </p>
