@@ -120,4 +120,4 @@ https://ashutosh00710.github.io/github-readme-activity-graph/
 
 </div>-->
 
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake-dark.svg)
