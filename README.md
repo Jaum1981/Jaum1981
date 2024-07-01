@@ -118,6 +118,8 @@ https://ashutosh00710.github.io/github-readme-activity-graph/
   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
+  ![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>-->
 
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake-dark.svg)
+
