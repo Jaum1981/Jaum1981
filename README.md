@@ -11,7 +11,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaum1981&bg_color=0d1117&color=9fb2e0&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
 
 [![G-mail](https://skillicons.dev/icons?i=gmail	)](https://mail.google.com/mail/u/0/#inbox)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/joão-victor-amarante-diniz-9a2191230)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joão-victor-amarante-diniz-9a2191230)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jvictor.dinizz/)
 
 
