@@ -14,6 +14,12 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/joão-victor-amarante-diniz-9a2191230)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jvictor.dinizz/)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=GitHub+Trophies;)](https://git.io/typing-svg)
+
+  
+  <img src = "https://github-profile-trophy.vercel.app/?username=Jaum1981&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
+
 ![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
