@@ -13,6 +13,5 @@
 [![G-mail](https://skillicons.dev/icons?i=gmail	)](https://mail.google.com/mail/u/0/#inbox)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/joão-victor-amarante-diniz-9a2191230)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jvictor.dinizz/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/417824850690834442)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
