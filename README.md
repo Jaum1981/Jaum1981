@@ -14,4 +14,8 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/joão-victor-amarante-diniz-9a2191230)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jvictor.dinizz/)
 
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake-dark.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
+
+
