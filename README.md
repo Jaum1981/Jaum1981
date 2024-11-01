@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jaum1981&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Jaum github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaum1981&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
   
-[![My Skills](https://skillicons.dev/icons?i=c,java,spring,mysql,mongodb,python,html,css,js,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,spring,mysql,mongodb,kotlin,python,html,css,js,vscode,notion)](https://skillicons.dev)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaum1981&bg_color=0d1117&color=9fb2e0&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
 
