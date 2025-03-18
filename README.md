@@ -10,7 +10,7 @@ I am currently studying Computer Science at UFC Campus Quixadá, and I am lookin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,java,spring,mysql,mongodb,kotlin,python,html,css,js,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,mysql,mongodb,kotlin,python,html,css,js,vscode,notion)](https://skillicons.dev)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
