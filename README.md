@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-I am currently studying Computer Science at UFC Campus Quixadá, and I am looking for my first work experience in the IT field :)<br>
+I am currently studying Computer Science at UFC Campus Quixadá, and I am working as a back end developer with Node.js :)<br>
 
 ![](https://komarev.com/ghpvc/?username=jaum1981&color=447ff7&label=Visitor+count)
 
